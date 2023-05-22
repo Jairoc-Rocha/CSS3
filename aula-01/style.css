@@ -1,0 +1,25 @@
+h1{
+    color: purple;
+    background-color: goldenrod;
+    
+}
+
+h4{
+    color: white;
+    border: 5px solid yellow;
+}
+
+li{
+    color: green;
+    list-style: none;
+}
+
+.moon {
+    color: white;
+}
+
+body{
+    background-image: url('https://www.potiguarnoticias.com.br/_ups/noticias/2022/11/01/709f0c92affbe4d2efda8c0ab75af0ee_720-1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
