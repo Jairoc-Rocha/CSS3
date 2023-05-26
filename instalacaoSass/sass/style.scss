@@ -1,0 +1,11 @@
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 2px solid black;
+}
+.quadrado:hover {
+    background-color: blue;
+    border: 2px solid gold;
+    transition: 0.5s;
+}
